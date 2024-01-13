@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter project.
+Developed the "World Time" app using Flutter and Dart, integrating the World Time API. Enables users to effortlessly check current times in different global locations, showcasing proficiency in mobile app development and API integration.
 
 ## Getting Started
 
